@@ -9,7 +9,7 @@ The Cake Shop web application provides a user-friendly interface for customers t
 ## Features
 
 - **Responsive Design:** Utilizes Bootstrap to ensure the app looks great on all devices.
-- **Home Page:** Welcomes visitors with a brief introduction and a call to action.
+- **Hero Section:** Welcomes visitors with a brief introduction and a call to action.
 - **Products Section:** Displays a variety of cakes with images.
 - **About Us Section:** Provides information about the shop.
 - **Contact Form:** Allows customers to send inquiries.
